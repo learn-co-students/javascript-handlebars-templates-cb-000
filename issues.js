@@ -1,3 +1,5 @@
+var crazyShit = "SO CRAZY"
+
 var issues = [
 {
   "body": "Instructions say GET /team and POST /newteam. Rspec wants GET/newteam and POST/team.",
